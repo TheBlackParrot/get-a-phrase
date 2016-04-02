@@ -1,0 +1,91 @@
+Anton,400
+Roboto,100
+Roboto,300
+Roboto,400
+Roboto,700
+Roboto,900
+Open Sans,400
+Open Sans,700
+Open Sans,800
+Oswald,300
+Oswald,400
+Slabo 13px,400
+Slabo 27px,400
+Lora,400
+Lora,700
+Raleway,300
+Raleway,400
+Raleway,700
+Raleway,900
+Montserrat,400
+Montserrat,700
+Ubuntu,400
+Ubuntu,700
+Roboto Slab,400
+Roboto Slab,700
+Droid Serif,400
+Droid Serif,700
+Indie Flower,400
+Cabin,400
+Cabin,700
+Playfair Display,400
+Playfair Display,700
+Playfair Display,900
+Lobster,400
+Lobster Two,400
+Lobster Two,700
+Dosis,400
+Dosis,700
+Dosis,800
+Fjalla One,400
+Arvo,400
+Arvo,700
+Volkhov,400
+Volkhov,700
+Poiret One,400
+Bree Serif,400
+Francois One,400
+Nunito,300
+Nunito,400
+Nunito,700
+Play,400
+Play,700
+Playball,400
+Shadows Into Light,400
+Shadows Into Light Two,400
+Maven Pro,400
+Maven Pro,700
+Maven Pro,900
+Pacifico,400
+Rokkit,400
+Rokkit,700
+Orbitron,400
+Orbitron,700
+Orbitron,900
+Questrial,400
+Crete Round,400
+Crete Round,700
+Exo,100
+Exo,400
+Exo,700
+Exo,900
+Pathway Gothic One,400
+Abril Fatface,400
+Patua One,400
+Chewy,400
+Gloria Hallelujah,400
+Give You Glory,400
+Sigmar One,400
+Kaushan Script,400
+Alfa Slab One,400
+Bangers,400
+Amatic SC,400
+Amatic SC,700
+Courgette,400
+Coming Soon,400
+Fredoka One,400
+Passion One,400
+Passero One,400
+Playball,400
+Pinyon Script,400
+Righteous,400
